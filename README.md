@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning web development
+- 🤔 I’m looking for help with Javascript
+- ⚡ Fun fact: I'm also a designer and illustrator

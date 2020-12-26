@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **mariannebravo/mariannebravo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1> 📚 Sistemas de Informação 5/8 🔖</h1>
+
 - 🌱 I’m currently learning web development
 - 🤔 I’m looking for help with Javascript
+- 🔭 English: Advanced
 - ⚡ Fun fact: I'm also a designer and illustrator
 - 📫 Social: 
    - instagram.com/mari.sketchs/

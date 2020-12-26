@@ -17,4 +17,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning web development
 - 🤔 I’m looking for help with Javascript
-- ⚡ Fun fact: I'm also a designer and illustrator (portfolio on bio)
+- ⚡ Fun fact: I'm also a designer and illustrator
+- 📫 Social: 
+   - instagram.com/mari.sketchs/
+   - linkedin.com/in/marianne-bravo-b7349517b
+

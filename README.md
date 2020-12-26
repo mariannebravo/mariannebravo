@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning web development
 - 🤔 I’m looking for help with Javascript
-- ⚡ Fun fact: I'm also a designer and illustrator
+- ⚡ Fun fact: I'm also a designer and illustrator (portfolio on bio)

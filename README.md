@@ -17,6 +17,13 @@ Here are some ideas to get you started:
 
 <h1> 📚 Sistemas de Informação 5/8 🔖</h1>
 
+<h3> 
+   Marianne, 20yo
+   PT-BR/EN
+   Web Developer
+   Designer
+</h3>
+
 - 🌱 I’m currently learning web development
 - 🤔 I’m looking for help with Javascript
 - 🔭 English: Advanced

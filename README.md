@@ -19,10 +19,8 @@ Here are some ideas to get you started:
 
 <h3>
    📌
-   Marianne, 20yo |
-   PT-BR/EN |
-   Web Developer |
-   Designer
+   Marianne, 20 |
+   PT-BR/EN
 </h3>
 
 - 🌱 I’m currently learning web development

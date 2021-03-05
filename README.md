@@ -15,17 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1> <img src="https://img.icons8.com/bubbles/50/000000/keyboard.png"/> Sistemas de Informação 5/8 🔖</h1>
+<h1><img src="https://img.icons8.com/bubbles/50/000000/workstation.png"/></h1>
 
 <h3>
    Marianne, 20 |
    PT-BR/EN
 </h3>
 
-- 🌱 I’m currently learning web development
-- 🤔 I’m looking for help with Javascript
-- 🔭 English: Advanced
-- ⚡ Fun fact: I'm also a designer and illustrator
+<p>
+   <img src="https://img.icons8.com/bubbles/50/000000/f1-key.png"/> Hello, i'm frontend developer
+</p>
+
+<p>
+   <img src="https://img.icons8.com/bubbles/50/000000/f2-key.png"/> Currently leaning Vue.js and more about Vanilla Javascript
+</p>
 - 📫 Social: 
    - instagram.com/mari.sketchs/
    - linkedin.com/in/marianne-bravo-b7349517b

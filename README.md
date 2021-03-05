@@ -37,9 +37,6 @@
                 <a href="https://www.instagram.com/mari.sketchs/">
                     <img src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>
                 </a>
-                <a href="https://www.linkedin.com/in/mariannebravo/">
-                    <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
-                </a>
                 <a href="https://t.me/cybermarizinha">
                     <img src="https://img.icons8.com/bubbles/50/000000/telegram-app.png"/>
                 </a>

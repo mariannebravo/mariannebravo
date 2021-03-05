@@ -33,13 +33,14 @@
                 <img src="https://img.icons8.com/bubbles/50/000000/f12-key.png"/>
                 <br>
                 Social:
-                <a href="instagram.com/mari.sketchs">
+ <br>
+                <a href="https://www.instagram.com/mari.sketchs/">
                     <img src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>
                 </a>
                 <a href="https://www.linkedin.com/in/mariannebravo/">
                     <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
                 </a>
-                <a href="t.me/taeyongincel">
+                <a href="https://t.me/cybermarizinha">
                     <img src="https://img.icons8.com/bubbles/50/000000/telegram-app.png"/>
                 </a>
                 <br>

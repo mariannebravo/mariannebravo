@@ -8,8 +8,8 @@
         <br>
                 <p>
                 <img src="https://img.icons8.com/bubbles/50/000000/f10-key.png"/>
-                What am i studying?
                 <br>
+                What am i studying?
                 <li>
                     I'm frontend developer
                 </li>
@@ -22,16 +22,17 @@
                 </p>
                 <p>
                 <img src="https://img.icons8.com/bubbles/50/000000/f11-key.png"/>
-                What are my hobbies?
                 <br>
+                What are my hobbies?
                 <li>
-                    I'm also a designer and illustrator, you can check my instagram ->
+                    I'm also a designer and illustrator, you can check my instagram 
                 </li>
                 </p>
+                <br>
                 <p>
                 <img src="https://img.icons8.com/bubbles/50/000000/f12-key.png"/>
-                Social:
                 <br>
+                Social:
                 <a href="instagram.com/mari.sketchs">
                     <img src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>
                 </a>

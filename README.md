@@ -13,6 +13,9 @@
                 <li>
                     I'm frontend developer
                 </li>
+               <li>
+               Graduating in IT
+               </li>
                 <li>
                     Currently learning Vue.js and studying more about vanilla Javascript
                 </li>

@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1> 📚 Sistemas de Informação 5/8 🔖</h1>
+<h1> <img src="https://img.icons8.com/bubbles/50/000000/keyboard.png"/> Sistemas de Informação 5/8 🔖</h1>
 
 <h3>
-   <img src="https://img.icons8.com/bubbles/50/000000/keyboard.png"/>
    Marianne, 20 |
    PT-BR/EN
 </h3>

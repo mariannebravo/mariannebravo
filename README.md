@@ -3,4 +3,4 @@
 <p>🔖Vue.js <p/>
 <p>🔖Node.js <p/>
 <p>🔖Python <p/>
-<p>🔖Intrested in Machine Learning and AI <p/>
+

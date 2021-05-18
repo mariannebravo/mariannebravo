@@ -1,13 +1,14 @@
-### Hi, mari here! :cherry_blossom:
+### :cherry_blossom: Hi, mari here! 
 
 I live in Rio de Janeiro, Brazil
-I'm 20 and also graduating in IT 
+<br>
+I'm 20 and also graduating in IT
 
-### My skills:
+### :mushroom: My skills:
 - VueJS
 - NodeJS
 - CSS3 with SASS
 
-### Find me here
+### :mag_right: Find me here
 
 

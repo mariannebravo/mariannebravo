@@ -6,3 +6,7 @@ i'm a IT student and enthusiast with focus on web development, ux design and I w
 - VueJS
 - NodeJS
 - CSS3 with SASS
+
+### Find me here
+
+<img src="{https://logodownload.org/wp-content/uploads/2017/04/instagram-logo-3.png}" />

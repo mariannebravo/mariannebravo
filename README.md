@@ -1,6 +1,6 @@
 ### Hi, mari here! 
 
-i'm a IT student and enthusiast with focus on web development, ux design and I work as developer at IBM.
+I live in Rio de Janeiro, BR 🇧🇷
 
 ### My skills:
 - VueJS

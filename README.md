@@ -9,4 +9,4 @@ i'm a IT student and enthusiast with focus on web development, ux design and I w
 
 ### Find me here
 
-- [Instagram] (https://logodownload.org/wp-content/uploads/2017/04/instagram-logo-3.png)
+

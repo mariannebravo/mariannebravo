@@ -15,4 +15,4 @@ I'm currently working as a software developer at IBM with focus on frontend deve
 
 ### :mag_right: Find me here
 
-<a href=""><img src="https://img-premium.flaticon.com/png/512/1409/1409946.png?token=exp=1621377765~hmac=6834f75c7225e56dcc77be153620c2fc"></a>
+<a href=""><img src="https://img-premium.flaticon.com/png/512/1409/1409946.png?token=exp=1621377765~hmac=6834f75c7225e56dcc77be153620c2fc" width="30px"></a>

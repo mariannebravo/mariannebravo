@@ -1,6 +1,6 @@
-### Hi, mari here! 
+### Hi, mari here! :cherry_blossom:
 
-I live in Rio de Janeiro, BR 🇧🇷
+I live in Rio de Janeiro, BR 
 
 ### My skills:
 - VueJS

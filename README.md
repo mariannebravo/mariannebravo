@@ -13,7 +13,3 @@ I'm currently working as a software developer at IBM with focus on frontend deve
 - CSS3 with SASS
 - Python
 
-### :mag_right: Find me here
-
-<a href="https://www.instagram.com/mari.pkg/"><img src="https://img-premium.flaticon.com/png/512/1409/1409946.png?token=exp=1621377765~hmac=6834f75c7225e56dcc77be153620c2fc" width="30px"></a>
-<a href="https://www.linkedin.com/in/mariannebravo/"><img src="https://img-premium.flaticon.com/png/512/1409/1409945.png?token=exp=1621378194~hmac=3bb870f15007ee661340dd51f2860555" width="30px"></a>

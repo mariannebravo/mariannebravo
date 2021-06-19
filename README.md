@@ -1,4 +1,4 @@
-<h1 text-align="center">Hi, mari here!</h1>
+<h1 style="text-align: center">Hi, mari here!</h1>
 
 I live in Rio de Janeiro, Brazil
 <br>

@@ -1,6 +1,5 @@
 <h1 align="center">Hi, Mari here!</h1>
 <h3 align="center">i'm 20 and graduating in IT and this is my personal github.</h3>
-<hr>
 
 <h4>My skills:<h4/>
 <h5>Development:</h5>
@@ -20,7 +19,6 @@
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 </p>
-<hr>
 
 <h4 align="center">find me here:</h4>
 <p align="center">

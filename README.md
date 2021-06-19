@@ -1,4 +1,4 @@
-### :cherry_blossom: Hi, mari here! 
+<h1 text-align: center>Hi, mari here!</h1.
 
 I live in Rio de Janeiro, Brazil
 <br>

@@ -1,4 +1,4 @@
-<h1 align="center">Hi, Mari here!</h1>
+<h1 align="center">🐉 Hi, Mari here!</h1>
 <h3 align="center">i'm 20 and graduating in IT and this is my personal github.</h3>
 
 <h4>My skills:<h4/>

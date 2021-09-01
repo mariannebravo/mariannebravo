@@ -5,7 +5,7 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariannebravo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-  <div>
+  <div align="center">
     <p>
       <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
         <img align="center" src="https://github-profile-trophy.vercel.app/?theme=dracula&margin-w=8&column=6&username=mariannebravo" alt="Trophies" />

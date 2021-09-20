@@ -4,14 +4,6 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=mariannebravo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariannebravo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-  <div align="center">
-    <p>
-      <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
-        <img align="center" src="https://github-profile-trophy.vercel.app/?theme=dracula&margin-w=8&column=6&username=mariannebravo" alt="Trophies" />
-      </a>
-    </p>
-  </div>
   
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />

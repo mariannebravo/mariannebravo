@@ -1,5 +1,7 @@
 ## Presentation
-Hello there! I'm 20 and currently graduating in IT. Basically here there's only college and front-end mentor stuff, enjoy | 💌 discord: mariri ;)#2232
+<div align="center">
+  Hello there! I'm 20 and currently graduating in IT. Basically here there's only college and front-end mentor stuff, enjoy | 💌 discord: mariri ;)#2232
+</div>
 
 ## Programming Statistics
 <div align="center"> 

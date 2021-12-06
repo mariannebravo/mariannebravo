@@ -1,4 +1,5 @@
 ## Presentation
+Hello there! I'm 20 and currently graduating in IT. Basically here there's only college and front-end mentor stuff, enjoy | 💌 discord: mariri ;)#2232
 
 ## Programming Statistics
 <div align="center"> 
@@ -9,3 +10,5 @@
 </div>
 
 ## Live websites
+- [Grid Section - FrontEnd Mentor](https://testimonials-grid-section-main.mariannebravo.repl.co)
+- [Card Preview - FrontEnd Mentor](https://card-preview.mariannebravo.repl.co)

@@ -21,7 +21,7 @@
 
 <div>
   <p>
-    <img src="https://cdn-icons.flaticon.com/png/512/534/premium/534621.png?token=exp=1638997466~hmac=5855fdaca16d6018e20306489131a084" width="30px" align="left" alt="Coding" />
+    <img src="https://cdn-icons.flaticon.com/png/512/534/premium/534621.png?token=exp=1639157833~hmac=6d616e004d295acdaf713a86fb3d662a" width="30px" align="left" alt="Coding" />
     Hi, I'm Marianne but you can call me just Mari. I'm 21 and currently in a junior year at college. I already got an internship so I work as a software developer, developing web applications with VueJS.
     I'm also learning ReactJS and AngularJS. I'm not into backend so much but sometimes I like to adventure myself taking tasks from backend development with NodeJS or TypeScript.
   </p>

@@ -21,7 +21,6 @@
 
 <div>
   <p>
-    <img src="https://cdn-icons.flaticon.com/png/512/2115/premium/2115955.png?token=exp=1639843782~hmac=d83bc7e90db664ae801436d40335fc0c" width="30px" align="left" alt="Coding" />
     Hi, I'm Marianne but you can call me just Mari. I'm 21 and currently in a junior year at college. I already got an internship so I work as a software developer, developing web applications with VueJS.
     I'm also learning ReactJS and AngularJS. I'm not into backend so much but sometimes I like to adventure myself taking tasks from backend development with NodeJS or TypeScript.
   </p>

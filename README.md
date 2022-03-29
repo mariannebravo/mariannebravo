@@ -12,17 +12,11 @@
   <a href="https://www.instagram.com/marrrrrrrianne/">
     <img src="https://cdn-icons-png.flaticon.com/512/725/725278.png" width="30px" align="left" alt="Marianne | Instagram" />
   </a>
-
-  <img src="https://cdn-icons-png.flaticon.com/512/356/356060.png" width="30px" align="left" alt="Marianne | Discord" />
-  <span>mariri ;)#2232</span>
 </div>
-
-<hr />
 
 <div>
   <p>
-    Hi, I'm Marianne but you can call me just Mari. I'm 21 and currently in a junior year at college. I already got an internship so I work as a software developer, developing web applications with VueJS.
-    I'm also learning ReactJS and AngularJS. I'm not into backend so much but sometimes I like to adventure myself taking tasks from backend development with NodeJS or TypeScript.
+   
   </p>
 </div>
 

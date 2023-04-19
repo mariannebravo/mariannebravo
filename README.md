@@ -20,7 +20,7 @@ Skills
   Backend:
     - Node w/ express
     - Nestjs
-    - Java (but i hate java)
+    - Java (but i hate java (: )
 
   DB:
     - MongoDB

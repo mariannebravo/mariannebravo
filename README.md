@@ -33,7 +33,8 @@ IBM | 2021 - Present
 
 Started my first intership at February/2021 and in January/2023 i started as a full-time job.
 
-My responsabilities go from developing prototypes to do user interviews and get feedback from them to developing the web application itself.
+My responsabilities go from developing prototypes to do user interviews and 
+get feedback from them to developing the web application itself.
 
 FYI:
   - in 2021 i participate of Call for Code

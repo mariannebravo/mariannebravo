@@ -39,5 +39,5 @@ get feedback from them to developing the web application itself.
 FYI:
   - in 2021 i participate of Call for Code
   - in March/2023 i joined at XP Farm Brazil (white belt)
-  - in April/2023 i started my Certification
+  - in April/2023 i started my Developer Certification
 ```

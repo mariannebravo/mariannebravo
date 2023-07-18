@@ -8,23 +8,7 @@
 Fullstack but i prefer frontend development.
 
 Skills
-- Javascript/typescript in general
-  Frontend:
-    - React (w/ js and ts using Next)
-    - Vue
-    - Angular
-
-  UX Tools:
-    - Figma
-    - Adobe XD
-
-  Backend:
-    - Node w/ express
-    - Nestjs
-    - Java (but i hate java (: )
-
-  DB:
-    - MongoDB
-    - IBM Cloudant
-    - BD2
+- Javascript/typescript in general (vue, next, nest, react, angular)
+- Java
+- UX Design
 ```

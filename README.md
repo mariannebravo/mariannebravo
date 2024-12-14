@@ -1,7 +1,7 @@
 <div>
   
 ```
-23 | Junior application developer and UX designer
+24 | Junior application developer and UX designer
 Fullstack but i prefer frontend development.
   
 Skills

@@ -9,9 +9,9 @@
 - **Backend Magic**: Designing and building robust microservices with **Java (Spring Boot/Spring Cloud)**, **Node.js**, and **Nest.js**
 - **Frontend Craftsmanship**: Creating dynamic, responsive interfaces with **React.js**, **Next.js**, and modern state management patterns
 - **System Design & Architecture**: Technical leadership in designing high-availability distributed systems with SOLID principles and advanced design patterns
-- **Performance Optimization**: Leveraging **Python (Pandas, NumPy, Scipy)** and statistical techniques to build predictive models and minimize latency/IOPS
 - **DevOps & Infrastructure**: Containerizing solutions with **Docker** and **Kubernetes**, implementing CI/CD pipelines with **Travis CI**
 - **Database Excellence**: Advanced schema modeling (SQL/NoSQL), zero-downtime migrations with **Flyway & Liquibase**
+- **Performance Optimization**: Leveraging **Python (Pandas, NumPy, Scipy)** and statistical techniques to build predictive models and minimize latency/IOPS
 
 ---
 
